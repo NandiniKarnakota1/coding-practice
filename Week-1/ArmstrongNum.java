@@ -1,3 +1,7 @@
+//2. Check if a number is an Armstrong
+//number
+//        (Armstrong: sum of digits^n = number itself, n =
+//                digit count. e.g., 153 = 1³+5³+3³)
 public class ArmstrongNum {
     public static void main(String[] args){
         int num = 153;
